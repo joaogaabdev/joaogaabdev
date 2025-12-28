@@ -1,6 +1,6 @@
 **`Backend Developer`**
 
-Meu nome é João Gabriel, estou no 4° período do curso de Sistemas de Informação e sou natural de Alagoas. Meu foco é o desenvolvimento Backend, gosto de me desafiar, aprender coisas novas e compartilhar conhecimentos!
+Meu foco é o desenvolvimento Backend, gosto de me desafiar, aprender coisas novas e compartilhar conhecimentos!
 
 ---
 ### Linguagens e Tecnologias 

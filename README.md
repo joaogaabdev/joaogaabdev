@@ -115,7 +115,7 @@ Meu foco é o desenvolvimento Backend, gosto de me desafiar, aprender coisas nov
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogaabdev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)" 
   />
 
 </p>

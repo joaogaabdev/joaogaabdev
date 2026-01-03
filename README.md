@@ -109,13 +109,12 @@ Meu foco é o desenvolvimento Backend, gosto de me desafiar, aprender coisas nov
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<h3>📊 Estatísticas</h3>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogaabdev&layout=compact&theme=github_dark"
-  />
-
-</p>
+<a href="https://github.com/joaogaabdev">
+  <img
+    align="left"
+    alt="GitHub Top Languages"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogaabdev&layout=compact&theme=github_dark"/>
+</a>

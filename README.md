@@ -116,5 +116,5 @@ Meu foco é o desenvolvimento Backend, gosto de me desafiar, aprender coisas nov
     align="left"
     alt="GitHub Top Languages"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogaabdev&layout=compact&theme=github_dark"/>
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogaabdev&layout=compact&theme=github_dark"
 </a>

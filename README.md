@@ -32,8 +32,8 @@
 <p align="center">
   <a href="https://github.com/joaogaabdev">
     <img
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=joaogaabdev&layout=compact&theme=github_dark&hide=html,css"
-    height="180"
+     src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=joaogaabdev&layout=compact&theme=github_dark&hide=html,css"
+  height="180"
     />
   </a>
 </p>

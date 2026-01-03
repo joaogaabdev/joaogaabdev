@@ -115,7 +115,7 @@ Meu foco é o desenvolvimento Backend, gosto de me desafiar, aprender coisas nov
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogaabdev)](https://github.com/joaogaabdev/github-readme-stats)" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogaabdev&layout=compact&theme=github_dark"
   />
 
 </p>

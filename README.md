@@ -1,39 +1,37 @@
-<h1 align="center">João Gabriel</h1>
-<p align="center">
-  <strong>Backend Developer</strong>
-</p>
+<h3 align="center">João Gabriel</h3>
+<h3 align="center"> <_Backend Developer_> </h3>
 
-<p align="center">
-  Apaixonado por tecnologia e desenvolvimento Backend. Gosto de me desafiar, aprender coisas novas<br/>
-  e compartilhar conhecimento. 
-</p>
+###
 
----
+<h2 align="center"></h2>
 
-<h3 align="center">🧠 Linguagens & Tecnologias</h3>
+###
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
-</p>
+<h4 align="center">Apaixonado por tecnologia e desenvolvimento Backend.</h4>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="36"/>
-</p>
+###
 
----
+<h2 align="center">Linguagens & Tecnologias</h2>
 
-<h3 align="center">📊 Stats</h3>
+###
 
-<p align="center">
-  <a href="https://github.com/joaogaabdev">
-    <img
-     src="https://github-readme-stats.vercel.app/api/top-langs.svg?username=joaogaabdev&layout=compact&theme=github_dark&hide=html,css"
-  height="180"
-    />
-  </a>
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaogaabdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 

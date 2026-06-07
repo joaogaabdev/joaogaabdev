@@ -7,7 +7,7 @@
 
 ###
 
-<h4 align="center">Apaixonado por tecnologia e desenvolvimento Backend.</h4>
+<h4 align="center">Apaixonado por tecnologia e desenvolvimento de Software.</h4>
 
 ###
 
